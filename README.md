@@ -2,7 +2,7 @@
 
 Hi, I'm Sena—a current master's student at DePaul University pursuing a MS in Data Science with a concentration on computational methods. I previously graduated from UC Santa Barbara with a BA in Economics. My motivations are to understand various and vast industries by providing clarity through my curiosity. On my downtime, I enjoy picking up a good book, playing various racquet sports, being outdoors with mother nature, and playing with my Nintendo Switch. 
 
-- 🌱 I’m currently learning about deep learning and neural networks, AI, machine learning, Power BI, and data science applicattions within the healthcare industry
+- 🌱 I’m currently learning about deep learning and neural networks, AI, machine learning, Power BI, and data science applications within the healthcare industry
 - 👯 I’m looking to collaborate on data science and machine learning projects
 - 📫 How to reach me: sbui1@depaul.edu or my [LinkedIn](https://www.linkedin.com/in/senabui/)
 - ⚡ Fun fact: I helped out with my family business for a few years before pursuing higher education. I place a large emphasis on community and expression!
